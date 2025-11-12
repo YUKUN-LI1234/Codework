@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+## Dependencies
+npm i next react react-dom @supabase/supabase-js recharts xlsx
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
